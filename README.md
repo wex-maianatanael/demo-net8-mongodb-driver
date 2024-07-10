@@ -12,7 +12,7 @@ In order to run this demo locally, go trough the following steps:
 
 4. Run the Web API project and send HTTP requests to create and return user(s) from mongodb.
 
-5. If you want to check the data you created in the database, open the mongo-express by using this url `http:localhost:8081`, passing the following credentials: user - `admin` and password - `pass`.
+5. If you want to check the data you created in the database, open the mongo-express by using this url `http://localhost:8081`, passing the following credentials: user - `admin` and password - `pass`.
 
 ### External Refs.
 

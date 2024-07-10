@@ -1,4 +1,4 @@
-﻿using Demo.Domain;
+﻿using Demo.Domain.Entities;
 using Microsoft.Extensions.Configuration;
 using MongoDB.Driver;
 

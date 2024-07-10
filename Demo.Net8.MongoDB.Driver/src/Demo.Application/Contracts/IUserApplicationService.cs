@@ -1,4 +1,4 @@
-﻿using Demo.Domain;
+﻿using Demo.Domain.Entities;
 
 namespace Demo.Application.Contracts
 {

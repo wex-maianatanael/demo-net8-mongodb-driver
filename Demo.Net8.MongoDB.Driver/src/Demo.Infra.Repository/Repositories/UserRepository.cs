@@ -1,5 +1,5 @@
-﻿using Demo.Domain;
-using Demo.Domain.Contracts.Repositories;
+﻿using Demo.Domain.Contracts.Repositories;
+using Demo.Domain.Entities;
 using Demo.Infra.Repository.Context;
 using MongoDB.Driver;
 

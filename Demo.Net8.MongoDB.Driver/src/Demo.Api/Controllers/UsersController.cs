@@ -1,6 +1,6 @@
 using Demo.Application.Contracts;
 using Demo.Application.ViewModels;
-using Demo.Domain;
+using Demo.Domain.Entities;
 using Microsoft.AspNetCore.Mvc;
 
 namespace Demo.Api.Controllers

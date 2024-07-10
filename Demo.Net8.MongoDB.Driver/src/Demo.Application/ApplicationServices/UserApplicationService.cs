@@ -1,6 +1,6 @@
 ﻿using Demo.Application.Contracts;
-using Demo.Domain;
 using Demo.Domain.Contracts.DomainServices;
+using Demo.Domain.Entities;
 
 namespace Demo.Application.ApplicationServices
 {
